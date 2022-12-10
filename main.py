@@ -48,3 +48,4 @@ def genrate_pass_marks(marks: list, passmark: int) -> list:
 
 
 print(genrate_pass_marks(marks, 35))
+# testing git commit
